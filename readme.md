@@ -1,4 +1,5 @@
 ### go
 #### sorting
-- [  ] merge sort
-- [  ] quick sort
+
+- [ ] merge sort
+- [ ] quick sort
